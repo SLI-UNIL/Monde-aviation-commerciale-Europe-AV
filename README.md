@@ -8,3 +8,6 @@ ii. Capture écran: la procédure d’installation / de lancement
 les éventuels modules, librairies ou scripts intégrés ou nécessaires au bon fonctionnement de votre rendu
 les éventuels copyrights, informations de licence, et autres références de vos sources et ressources y compris en matière de code récupéré
 
+# Procédure d'installation et d'exécution:
+1. Téléchargez Visual Studio Code
+2. Installez
