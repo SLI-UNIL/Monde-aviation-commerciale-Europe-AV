@@ -2,8 +2,19 @@
 ## Description
 Ce projet, développé sur Observable Plot, représente une visualisation de l'état des lieux des compagnies aériennes et de leurs flottes en Europe. Il y a 6 catégories de données: pays, compagnie, constructeur, le modèle exact, la quantité de ce modèle chez la compagnie aérienne et l'âge moyen de la flotte du modèle chez la compagnie. En effet, je n'ai pris en compte que les compagnies qui sont commerciales, c'est à dire qui font des vols régulièrement et non à certaines périodes de l'année (charter et cargo supprimés). Par ailleurs, j'ai enlevé les compagnies qui n'existent plus ainsi que les avions qui ne volent plus (aucun vol effectué depuis plusieurs mois) mais qui sont encore dans la liste de la compagnie. Concernant les pays, j'ai compté les pays qui ont des avions effectivement basés et non qui sont seulement enregistrés (cas de Rayannair: enregistré en Irelande mais leurs avions sont dispersés dans le monde). 
 
+## Outils utilisés
+J'ai utilisé Observable car cela permet facilement de crée de la visualisation et de mettre à jour les données. Je souhaite que tout un chacun puisse visualiser les données à sa manière et les mettre à jour quand c'est pertinent. 
+
+## Variables utilisées
+- Pays
+- Compagnie
+- Constructeur
+- Modèle: exact,
+- Quantité: de ce modèle chez la compagnie aérienne
+- Age moyen: de la flotte du modèle chez la compagnie
+
 ## Procédure d'installation et d'exécution:
-1. Téléchargez Visual Studio Code ([www.code.visualstudio.com](https://code.visualstudio.com)) et installez le
+1. Téléchargez Visual Studio Code (https://code.visualstudio.com) et installez le
 2. Téléchargez l'extension "Live Server"
 3. Après avoir téléchargé le dossier contenant le code sur GitHub, ouvrez le dossier sous Fichier en haut à gauche dans Visual Studio Code, puis lancez le Live Server
    
