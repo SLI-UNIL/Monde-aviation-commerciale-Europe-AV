@@ -1,0 +1,14 @@
+{
+  "name": "@artisworkspace/le-monde-de-laviation-commerciale-en-europe",
+  "main": "2d0c228594f9deb1@3753.js",
+  "version": "3753.0.0",
+  "homepage": "https://observablehq.com/@artisworkspace/le-monde-de-laviation-commerciale-en-europe",
+  "author": {
+    "name": "Arti",
+    "url": "https://observablehq.com/@artisworkspace"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
