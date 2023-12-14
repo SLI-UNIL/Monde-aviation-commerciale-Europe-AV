@@ -34,13 +34,13 @@ Enfin, vous pouvez visualiser les données en détail pour la compagnie, constru
 <img width="1280" alt="Capture d’écran 2023-12-14 à 11 29 14" src="https://github.com/artii1202/Monde-aviation-commerciale-Europe/assets/100208267/2edc3656-0bcb-4317-8079-02817c045026">
 <img width="1280" alt="Capture d’écran 2023-12-14 à 11 29 33" src="https://github.com/artii1202/Monde-aviation-commerciale-Europe/assets/100208267/54d4554f-5b53-429e-90dc-832f33b4bb88">
 
-## Cadre de développement
-Ce projet a été développé exclusivement par moi, Artiom Voronine, dans le cadre du cours "Visualisation de données" dispensé par Isaac Pante (SLI, Lettres, UNIL)
-
 ## Procédure d'installation et d'exécution:
 1. Téléchargez Visual Studio Code (https://code.visualstudio.com) et installez le
 2. Téléchargez l'extension "Live Server"
 3. Après avoir téléchargé le dossier contenant le code sur GitHub, ouvrez le dossier sous Fichier, puis "Ouvrir le dossier" en haut à gauche dans Visual Studio Code, puis lancez le Live Server et votre navigateur par défaût s'ouvrira.
+
+## Cadre de développement
+Ce projet a été développé exclusivement par moi, Artiom Voronine, dans le cadre du cours "Visualisation de données" dispensé par Isaac Pante (SLI, Lettres, UNIL)
 
 ## Remerciements
 Je vous souhaite de très bonnes fêtes de fin d'année! Je tiens également à remercier le Professeur Isaac Pante et son assistant Loris pour m'avoir appris pleins de notions durant leur cours de "Visualisation de données". 
