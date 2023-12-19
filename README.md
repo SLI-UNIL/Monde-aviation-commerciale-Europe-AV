@@ -1,7 +1,7 @@
-# Le monde de l'aviation commerciale en Europe
+# Le monde de l'aviation commerciale en Europe (état des données à mai 2023)
 
 ## Description
-Ce projet représente une visualisation de l'état des lieux de l'aviation commerciale en Europe (état à mai 2023). 
+Ce projet représente une visualisation de l'état des lieux de l'aviation commerciale en Europe. 
 <img width="1280" alt="Capture d’écran 2023-12-14 à 11 06 57" src="https://github.com/artii1202/Monde-aviation-commerciale-Europe/assets/100208267/47e683ff-476e-4f54-b82d-f4540c858fdd">
 
 ## But de ce projet, méthodologie et sources utilisées
